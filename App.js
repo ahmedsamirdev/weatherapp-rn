@@ -11,6 +11,8 @@ import { WEATHER_API_KEY } from 'react-native-dotenv'
 const BASE_WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather?";
 
 export default function App() {
+    console.log(API_URL)
+
     const [errorMessage, setErrorMessage] = useState(null)
     const [currentWeather, setCurrentWeather] = useState(null)
     const [unitsSystem, setUnitsSystem] = useState('metric')
