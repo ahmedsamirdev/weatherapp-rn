@@ -1,6 +1,6 @@
 # Simple React Native WeatherApp
 
-#### This is simple react-native base application which fetch weather using open weather Api.
+##### This is simple react-native base application which fetch weather using open weather Api.
 
 
 ## Technologies Used:
