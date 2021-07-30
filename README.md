@@ -11,7 +11,7 @@
 
 - Expo
 
-## Usage
+## Usage 
 - ```npx create-react-native-app``` Create a new native React app.
 
 - ```yarn ios``` -- (```react-native run-ios```) Build the iOS App (requires a MacOS computer).
