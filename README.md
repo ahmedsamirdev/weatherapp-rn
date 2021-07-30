@@ -26,7 +26,7 @@ Expo Client enables you to work with all of the Components and APIs in ```react-
 
 Expo Client supports running any project that doesn't have custom native modules added.
 
-- Download the "Expo Client" app from the Play Store or App Store.
+- Download the "Expo Client" app from the Play Store or App Store. 
 - Start your project with Expo
 - Install the CLI ```npm i -g expo-cli```
 - Start the project ```expo start```
