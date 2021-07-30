@@ -4,7 +4,7 @@
 
 
 ## Technologies Used:
-
+ 
 - React.Js
 
 - React Native
